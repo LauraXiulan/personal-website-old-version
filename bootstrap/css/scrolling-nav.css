@@ -1,0 +1,92 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+
+@media(min-width:768px) {
+    .navbar {
+        padding: 0px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+.intro-section {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.me-section {
+    border: 2px solid #74a9d8;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+}
+
+.about-section {
+    padding-top: 40px;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+.student-section {
+    padding-top: 40px;
+    text-align: center;
+    background-color: aliceblue;
+    padding-bottom: 40px;
+}
+
+.teacher-section {
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.programmer-section {
+    padding-top: 40px;
+    text-align: center;
+    background-color: aliceblue;
+    padding-bottom: 40px;
+}
+
+.degree-section {
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.skills-section {
+    padding-top: 40px;
+    text-align: center;
+    background-color: aliceblue;
+    padding-bottom: 40px;
+}
+
+.projects-section {
+    padding-top: 40px;
+    text-align: center;
+    color: black;
+    padding-bottom: 40px;
+    background-color: white;
+}
+
+.contact-section {
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 40px;
+    background-color: aliceblue;
+    padding-bottom: 40px;
+}
